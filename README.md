@@ -10,9 +10,8 @@ I'm currently enrolled in a Data Science & AI - Bootcamp. Where my focus is main
 
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,git,pycharm,r,linkedin&perline=6)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,sklearn,pytorch,tensorflow,latex,notion&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github,git,pycharm,anaconda,docker,fastapi,linkedin&perline=8)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=vscode,sklearn,pytorch,tensorflow,latex,notion,r&theme=light)](https://skillicons.dev)
 
 <!--
 - **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, PyTorch  
