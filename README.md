@@ -16,7 +16,7 @@ I'm currently enrolled in a **Data Science & AI** Bootcamp, where I aim to hone 
   
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,github,git,anaconda,notion,r,sqlite&perline=16)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,pytorch,tensorflow,github,git,docker,fastapi,linkedin,latex,notion,r,sqlite&perline=15)](https://skillicons.dev)   
 
 ## 📬 Contact
 - Email: marechal.n@hotmail.com
