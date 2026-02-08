@@ -23,6 +23,9 @@ I'm currently enrolled in a **Data Science & AI** Bootcamp, where I aim to hone 
 
 
 <!--
+
+## ⚡️ Skills
+
 **Fields**: Data Science | Machine Learning | Python | SQL
 
 - **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, PyTorch  
