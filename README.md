@@ -23,7 +23,7 @@ With a background in Economics and Psychology (Master’s degree), I combine qua
 
 🧠 **Deep Learning**
 - TensorFlow, Keras
-• CNN • RNN • ANN 
+- CNN • RNN • ANN 
 
 🚀 **MLOps & Deployment**
 - MLflow • Docker • FastAPI • Streamlit
