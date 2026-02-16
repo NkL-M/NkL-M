@@ -1,4 +1,4 @@
-## 👋 Hi I'm Nicolas!
+# 👋 Hi I'm Nicolas!
 
 I’m currently enrolled in a Data Science & AI Bootcamp, where I focus on building and deploying algorithmic models to better understand and predict human behavior.
 With a background in Economics and Psychology (Master’s degree), I combine quantitative analysis, behavioral science, and machine learning to design data-driven solutions.
