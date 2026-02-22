@@ -8,23 +8,42 @@ With a background in Economics and Psychology (Master’s degree), I combine qua
 
 
 ## ⚡️ Technical Skills
-
 💻 **Programming & Data**
-- Python, Pandas, NumPy, SQL
+
+- Python
+- Pandas
+- NumPy
+- SQL
 
 📊 **Data Visualization**
-- Matplotlib, Seaborn, Plotly
+- Matplotlib
+- Seaborn
+- Plotly
 
 🤖 **Machine Learning**
-- Scikit-learn, XGBoost
-- Classification • Regression • Clustering • Dimensionality Reduction
+
+- Scikit-learn • XGBoost
+  - Classification
+  - Regression
+  - Clustering
+  - Dimensionality Reduction
+  - Time Series
 
 🧠 **Deep Learning**
-- TensorFlow, Keras
-- CNN • RNN • ANN 
+- TensorFlow • Keras
+  - CNN
+  - RNN
+  - GAN
+  - NLP
+  - RAG
+  - Transformers
+  - RL
 
 🚀 **MLOps & Deployment**
-- MLflow • Docker • FastAPI • Streamlit
+- MLflow
+- Docker
+- FastAPI
+- Streamlit
   
 ## 🛠 Languages and Tools
 
