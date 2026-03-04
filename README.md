@@ -47,8 +47,20 @@ With a background in Economics and Psychology (Master’s degree), I combine qua
   
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,docker,fastapi,linkedin,notion,r,latex&perline=15)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,gcp&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,docker,fastapi,linkedin,notion,r,latex&perline=15)](https://skillicons.dev)   
 
 ## 📬 Contact
-- Email: marechal.n@hotmail.com
-- LinkedIn: www.linkedin.com/in/nicolas-marechal-oc
+- ✉️ Email: marechal.n@hotmail.com
+  
+[![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url]
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[github-shield]: https://img.shields.io/badge/-Github-353538?style=for-the-badge&logo=Github&logoColor=white
+[github-url]: https://github.com/NkL-M
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white
+[linkedin-url]: https://linkedin.com/in/nicolas-marechal-oc
+
+[kaggle-shield]: https://img.shields.io/badge/Kaggle-353538?style=for-the-badge&logo=Kaggle&logoColor=0077B5
+[kaggle-url]: https://www.kaggle.com/nkl974
