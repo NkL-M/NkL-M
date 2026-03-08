@@ -22,7 +22,7 @@ I'm a Data Science & AI student at **[Le Wagon](https://lewagon.com)** in Paris,
 
 - ### Pixel Truth
 
-An end-to-end computer vision app that classifies images as real or AI-generated — trained on a Kaggle dataset and deployed as a streamlit live web app.
+An end-to-end computer vision app that classifies images as real or AI-generated — trained on a Kaggle dataset and deployed as a web app.
 
 ## ⚡️ Technical Skills
 💻 **Programming & Data**
