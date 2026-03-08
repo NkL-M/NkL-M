@@ -2,7 +2,7 @@
 
 # - Hi I'm Nicolas - 
 
-**ML Engineering · Data Science · Artificial Intelligence · Behavioral Economics**
+_ML Engineering · Data Science · Artificial Intelligence · Behavioral Economics_
 
 <!-- *Bridging behavioral science and machine learning to understand what drives human decisions.* -->
 
@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-I'm a Data Science & AI student at **[Le Wagon](https://lewagon.com)** in Paris, with a Master's degree in **Economics and Psychology**. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
+I'm a Data Science & AI student at **[Le Wagon](https://lewagon.com)** in Paris, with a Master's degree in *Economics and Psychology*. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
 
 ## 📌 Current Project
 
@@ -31,7 +31,7 @@ An end-to-end computer vision app that classifies images as real or AI-generated
 
 📊 **Data Visualization**
 
-    Matplotlib · Seaborn · Plotly
+    Matplotlib · Seaborn · Plotly · Dashboards · Data Storytelling
 
 🤖 **Machine Learning**
 
@@ -43,7 +43,7 @@ An end-to-end computer vision app that classifies images as real or AI-generated
 
 🚀 **MLOps & Deployment**
 
-    Google Cloud Platform · MLflow · Docker · FastAPI · Streamlit
+    Code Packaging · Cloud Computing · CI/CD · Model Deployment · Monitoring MLflow
   
 ## 🛠 Languages and Tools
 
