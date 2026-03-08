@@ -1,58 +1,58 @@
-# 👋 Hi I'm Nicolas!
+<div align="center">
 
-I’m currently enrolled in a Data Science & AI Bootcamp, where I focus on building and deploying algorithmic models to better understand and predict human behavior.
-With a background in Economics and Psychology (Master’s degree), I combine quantitative analysis, behavioral science, and machine learning to design data-driven solutions.
+# - Hi I'm Nicolas - 
 
-📚 **Studying at**: Le Wagon - _Paris_, FRANCE  
-🎓 **Academic background**: Economics and Psychology (Master's Degree)
+**ML Engineering · Data Science · Artificial Intelligence · Behavioral Economics**
 
+<!-- *Bridging behavioral science and machine learning to understand what drives human decisions.* -->
+
+<!-- [![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url] -->
+
+[![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url]
+
+</div>
+
+---
+
+## 🎓 About Me
+
+I'm a Data Science & AI student at **[Le Wagon](https://lewagon.com)** in Paris, with a Master's degree in **Economics and Psychology**. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
+
+## 📌 Current Project
+
+- ### Pixel Truth
+
+An end-to-end computer vision app that classifies images as real or AI-generated — trained on a Kaggle dataset and deployed as a streamlit live web app.
 
 ## ⚡️ Technical Skills
 💻 **Programming & Data**
 
-- Python
-- Pandas
-- NumPy
-- SQL
+    Python · Pandas · NumPy · SQL
 
 📊 **Data Visualization**
-- Matplotlib
-- Seaborn
-- Plotly
+
+    Matplotlib · Seaborn · Plotly
 
 🤖 **Machine Learning**
 
-- Scikit-learn • XGBoost
-  - Classification
-  - Regression
-  - Clustering
-  - Dimensionality Reduction
-  - Time Series
+    Classification · Regression · Clustering · Dimensionality Reduction · Time Series
 
 🧠 **Deep Learning**
-- TensorFlow • Keras
-  - CNN
-  - RNN
-  - GAN
-  - NLP
-  - RAG
-  - Transformers
-  - RL
+
+    CNN · RNN · GAN · NLP · RAG · Transformers · RL
 
 🚀 **MLOps & Deployment**
-- MLflow
-- Docker
-- FastAPI
-- Streamlit
+
+    Google Cloud Platform · MLflow · Docker · FastAPI · Streamlit
   
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,gcp&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,docker,fastapi,linkedin,notion,r,latex&perline=15)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,gcp,r,notion,latex,sqlite&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,fastapi,linkedin&perline=15)](https://skillicons.dev)   
+
 
 ## 📬 Contact
-- ✉️ Email: marechal.n@hotmail.com
-  
-[![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url]
+
+✉️ Email: marechal.n@hotmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
