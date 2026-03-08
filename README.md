@@ -1,6 +1,6 @@
 <div align="center">
 
-# - Hi I'm Nicolas - 
+# - Hi I'm Nicolas -
 
 _MLOps · Data Science · Artificial Intelligence · Behavioral Economics_
 
@@ -12,16 +12,16 @@ _MLOps · Data Science · Artificial Intelligence · Behavioral Economics_
 
 ## 🎓 About Me
 
-I'm a Data Science & AI student at **[Le Wagon](https://lewagon.com)** in Paris, with a Master's degree in *Economics and Psychology*. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
+I'm a Data Science & AI student at [Le Wagon](https://lewagon.com) in Paris, with a Master's degree in *Economics and Psychology*. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
 
 ## 📌 Current Project
 
 - ### Pixel Truth
 
-An end-to-end computer vision app that classifies images as real or AI-generated — trained on a Kaggle dataset and deployed as a web app.
+An end-to-end computer vision app that detects whether an image is real or AI-generated, wether it is human faces, landscapes or even art. 
 
 ## ⚡️ Technical Skills
-💻 **Programming & Data**
+💻 **Programming & Data Manipulation**
 
     Python · Pandas · NumPy · SQL
 
