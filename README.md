@@ -47,7 +47,7 @@ An end-to-end computer vision app that classifies images as real or AI-generated
   
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,gcp,r,notion,latex,sqlite&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,fastapi,linkedin&perline=15)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,gcp,r,notion,latex,sqlite&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=docker,linkedin,git,github,bash,fastapi,apple&perline=15)](https://skillicons.dev)   
 
 
 ## 📬 Contact
