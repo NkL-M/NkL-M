@@ -2,11 +2,7 @@
 
 # - Hi I'm Nicolas - 
 
-_ML Engineering · Data Science · Artificial Intelligence · Behavioral Economics_
-
-<!-- *Bridging behavioral science and machine learning to understand what drives human decisions.* -->
-
-<!-- [![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url] -->
+_MLOps · Data Science · Artificial Intelligence · Behavioral Economics_
 
 [![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url]
 
