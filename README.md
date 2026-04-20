@@ -2,7 +2,7 @@
 
 # - Hi I'm Nicolas -
 
-_MLOps · Data Science · Artificial Intelligence · Behavioral Economics_
+_ML Engineering · Data Science · Artificial Intelligence · Behavioral Sciences_
 
 [![github-shield]][github-url] [![linkedin-shield]][linkedin-url] [![kaggle-shield]][kaggle-url]
 
@@ -12,9 +12,9 @@ _MLOps · Data Science · Artificial Intelligence · Behavioral Economics_
 
 ## 🎓 About Me
 
-I'm a Data Science & AI student at [Le Wagon](https://lewagon.com) in Paris, with a Master's degree in *Economics and Psychology*. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
+Machine Learning Engineer apprentice at [Liora](https://liora.io/) with a Master’s degree in Economics and Psychology. My experience sits at the intersection of quantitative modeling, behavioral sciences and machine learning to design data-driven solutions with user based insights.
 
-## 📌 Current Project
+## 📌 Projects
 
 - ### Pixel Truth
 
