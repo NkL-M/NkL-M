@@ -20,6 +20,10 @@ Machine Learning Engineer apprentice at [Liora](https://liora.io/) with a Master
 
 An end-to-end computer vision app that detects whether an image is real or AI-generated, wether it is human faces, landscapes or even art. 
 
+- ### Real Time Facial Emotion Recognition
+
+A real‑time Facial Emotion Recognition (FER) system built from scratch, combining computer vision, deep learning, and efficient model deployment.
+
 ## ⚡️ Technical Skills
 💻 **Programming & Data Manipulation**
 
@@ -35,7 +39,7 @@ An end-to-end computer vision app that detects whether an image is real or AI-ge
 
 🧠 **Deep Learning**
 
-    CNN · RNN · GAN · NLP · RAG · Transformers · RL
+    CNN · RNN · GAN · Computer Vision · NLP · RAG · Transformers · RL
 
 🚀 **MLOps & Deployment**
 
