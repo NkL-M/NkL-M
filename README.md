@@ -43,7 +43,7 @@ An end-to-end computer vision app that detects whether an image is real or AI-ge
   
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,pytorch,opencv,gcp,r,notion,latex,sqlite&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,bash,fastapi&perline=15)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,sklearn,tensorflow,pytorch,opencv,gcp,r,notion&theme=light)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,bash,fastapi&perline=15)](https://skillicons.dev)   
 
 
 ## 📬 Contact
